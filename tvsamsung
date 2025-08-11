@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtv1-hd" tvg-name="VTV1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv1-hd.png" group-title="FPTPlay",VTV1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv1-hd
+#EXTINF:-1 tvg-id="thvl1" tvg-name="Vĩnh Long 1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/thvl121-12-2021_16g59-31.png" group-title="FPTPlay",Vĩnh Long 1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=thvl1
+#EXTINF:-1 tvg-id="vinh-long-3" tvg-name="Vĩnh Long 3 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-3.png" group-title="FPTPlay",Vĩnh Long 3 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-3
+#EXTINF:-1 tvg-id="vinh-long-2" tvg-name="Vĩnh Long 2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-2.png" group-title="FPTPlay",Vĩnh Long 2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-2
+#EXTINF:-1 tvg-id="dong-thap" tvg-name="Đồng Tháp" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dong-thap.png" group-title="FPTPlay",Đồng Tháp
+http://khaitv.giize.com:8080/fptplay/get.php?id=dong-thap
+#EXTINF:-1 tvg-id="fpt-play" tvg-name="FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/12_01_2022/logo_fpt-play-212-01-2022_10g32-54.png" group-title="FPTPlay",FPT Play
+http://khaitv.giize.com:8080/fptplay/get.php?id=fpt-play
+#EXTINF:-1 tvg-id="vinh-long-4-hd" tvg-name="Vĩnh Long 4 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-4-hd.png" group-title="FPTPlay",Vĩnh Long 4 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-4-hd
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv2.png" group-title="FPTPlay",HTV2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv2
+#EXTINF:-1 tvg-id="hau-giang" tvg-name="Hậu Giang" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/hau-giang.png" group-title="FPTPlay",Hậu Giang
+http://khaitv.giize.com:8080/fptplay/get.php?id=hau-giang
+#EXTINF:-1 tvg-id="htv7-hd" tvg-name="HTV7 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv7-hd.png" group-title="FPTPlay",HTV7 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv7-hd
+#EXTINF:-1 tvg-id="antv" tvg-name="ANTV HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/antv.png" group-title="FPTPlay",ANTV HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=antv
+#EXTINF:-1 tvg-id="htv9-hd" tvg-name="HTV9 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv9-hd.png" group-title="FPTPlay",HTV9 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv9-hd
+#EXTINF:-1 tvg-id="htvc-the-thao" tvg-name="HTV Thể Thao" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-the-thao.png" group-title="FPTPlay",HTV Thể Thao
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-the-thao
+#EXTINF:-1 tvg-id="an-giang" tvg-name="An Giang HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/06/06/an-giang-hd_270-15906-06-2023_05g47-33.png" group-title="FPTPlay",An Giang HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=an-giang
+#EXTINF:-1 tvg-id="kpm" tvg-name="K+ Sport 1" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/ksport-101-10-2024_00g17-04.png" group-title="FPTPlay",K+ Sport 1
+http://khaitv.giize.com:8080/fptplay/get.php?id=kpm
+#EXTINF:-1 tvg-id="can-tho" tvg-name="Cần Thơ HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/cantho_adsl07-03-2022_11g42-36.png" group-title="FPTPlay",Cần Thơ HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=can-tho
+#EXTINF:-1 tvg-id="fpt-play" tvg-name="FPT Play" tvg-logo="https://images.fptplay53.net/media/channels/12_01_2022/logo_fpt-play-212-01-2022_10g32-54.png" group-title="FPTPlay",FPT Play
+http://khaitv.giize.com:8080/fptplay/get.php?id=fpt-play
+#EXTINF:-1 tvg-id="vtv1-hd" tvg-name="VTV1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv1-hd.png" group-title="FPTPlay",VTV1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv1-hd
+#EXTINF:-1 tvg-id="vtv2-hd" tvg-name="VTV2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv2-hd.png" group-title="FPTPlay",VTV2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv2-hd
+#EXTINF:-1 tvg-id="vtv3-hd" tvg-name="VTV3 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv3-hd.png" group-title="FPTPlay",VTV3 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv3-hd
+#EXTINF:-1 tvg-id="vtv4-hd" tvg-name="VTV4 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv4-hd.png" group-title="FPTPlay",VTV4 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv4-hd
+#EXTINF:-1 tvg-id="vtv5-hd" tvg-name="VTV5 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv5-hd.png" group-title="FPTPlay",VTV5 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv5-hd
+#EXTINF:-1 tvg-id="vtv-can-tho" tvg-name="VTV Cần Thơ" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/10/vtv_can-tho_270-15910-10-2022_10g50-54.png" group-title="FPTPlay",VTV Cần Thơ
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv-can-tho
+#EXTINF:-1 tvg-id="vtv7-hd" tvg-name="VTV7 HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/vtv-7-hd07-03-2022_15g07-25.png" group-title="FPTPlay",VTV7 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv7-hd
+#EXTINF:-1 tvg-id="vtv8-hd" tvg-name="VTV8 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv8-hd.png" group-title="FPTPlay",VTV8 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv8-hd
+#EXTINF:-1 tvg-id="vtv9-hd" tvg-name="VTV9 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv9-hd.png" group-title="FPTPlay",VTV9 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv9-hd
+#EXTINF:-1 tvg-id="vtv5-tay-nam-bo" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/04/01/vtv_tay-nam-bo_270x15901-04-2023_08g50-48.png" group-title="FPTPlay",VTV5 Tây Nam Bộ
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="htv7-hd" tvg-name="HTV7 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv7-hd.png" group-title="FPTPlay",HTV7 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv7-hd
+#EXTINF:-1 tvg-id="htv9-hd" tvg-name="HTV9 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv9-hd.png" group-title="FPTPlay",HTV9 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv9-hd
+#EXTINF:-1 tvg-id="on-home-shopping" tvg-name="On Home Shopping" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/01/06/on-shopping270-159_1736126290237.png" group-title="FPTPlay",On Home Shopping
+http://khaitv.giize.com:8080/fptplay/get.php?id=on-home-shopping
+#EXTINF:-1 tvg-id="thvl1" tvg-name="Vĩnh Long 1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/thvl121-12-2021_16g59-31.png" group-title="FPTPlay",Vĩnh Long 1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=thvl1
+#EXTINF:-1 tvg-id="vtv5-tay-nguyen" tvg-name=" VTV5 Tây Nguyên" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/05/07/vtv-tay-nguyen07-05-2023_14g32-45.png" group-title="FPTPlay", VTV5 Tây Nguyên
+http://khaitv.giize.com:8080/fptplay/get.php?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="hanoitv-1" tvg-name="HaNoiTV 1" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/hanoitv-1.png" group-title="FPTPlay",HaNoiTV 1
+http://khaitv.giize.com:8080/fptplay/get.php?id=hanoitv-1
+#EXTINF:-1 tvg-id="hanoitv-2" tvg-name="HaNoiTV 2" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/ha-noi-2_uhd04-06-2025_09g31-59.png" group-title="FPTPlay",HaNoiTV 2
+http://khaitv.giize.com:8080/fptplay/get.php?id=hanoitv-2
+#EXTINF:-1 tvg-id="fim360" tvg-name="SCTV6" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/fim360.png" group-title="FPTPlay",SCTV6
+http://khaitv.giize.com:8080/fptplay/get.php?id=fim360
+#EXTINF:-1 tvg-id="htvc-the-thao" tvg-name="HTV Thể Thao" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-the-thao.png" group-title="FPTPlay",HTV Thể Thao
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-the-thao
+#EXTINF:-1 tvg-id="vinh-long-2" tvg-name="Vĩnh Long 2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-2.png" group-title="FPTPlay",Vĩnh Long 2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-2
+#EXTINF:-1 tvg-id="vinh-long-3" tvg-name="Vĩnh Long 3 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-3.png" group-title="FPTPlay",Vĩnh Long 3 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-3
+#EXTINF:-1 tvg-id="vinh-long-4-hd" tvg-name="Vĩnh Long 4 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vinh-long-4-hd.png" group-title="FPTPlay",Vĩnh Long 4 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=vinh-long-4-hd
+#EXTINF:-1 tvg-id="quoc-phong-vn" tvg-name="Quốc Phòng VN HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/quoc-phong-vn.png" group-title="FPTPlay",Quốc Phòng VN HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=quoc-phong-vn
+#EXTINF:-1 tvg-id="antv" tvg-name="ANTV HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/antv.png" group-title="FPTPlay",ANTV HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=antv
+#EXTINF:-1 tvg-id="btv9" tvg-name="BTV9" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/btv9.png" group-title="FPTPlay",BTV9
+http://khaitv.giize.com:8080/fptplay/get.php?id=btv9
+#EXTINF:-1 tvg-id="mien-tay-thdt2" tvg-name="Miền Tây THĐT2" tvg-logo="https://images.fptplay53.net/media/channels/01_07_2022/mientay-thdt201-07-2022_17g13-31.png" group-title="FPTPlay",Miền Tây THĐT2
+http://khaitv.giize.com:8080/fptplay/get.php?id=mien-tay-thdt2
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv1.png" group-title="FPTPlay",HTV1
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv1
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv2.png" group-title="FPTPlay",HTV2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv2
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv3.png" group-title="FPTPlay",HTV3
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv3
+#EXTINF:-1 tvg-id="htvc-plus" tvg-name="HTVC Plus" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-plus.png" group-title="FPTPlay",HTVC Plus
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-plus
+#EXTINF:-1 tvg-id="htvc-du-lich" tvg-name="HTVC Du Lịch" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-du-lich.png" group-title="FPTPlay",HTVC Du Lịch
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-du-lich
+#EXTINF:-1 tvg-id="htvc-phu-nu" tvg-name="HTVC Phụ Nữ" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-phu-nu.png" group-title="FPTPlay",HTVC Phụ Nữ
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-phu-nu
+#EXTINF:-1 tvg-id="htvc-gia-dinh" tvg-name="HTVC Gia Đình" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-gia-dinh.png" group-title="FPTPlay",HTVC Gia Đình
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-gia-dinh
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV Key" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htv4.png" group-title="FPTPlay",HTV Key
+http://khaitv.giize.com:8080/fptplay/get.php?id=htv4
+#EXTINF:-1 tvg-id="htvc-thuan-viet-hd" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/04/10/thuan-viet-hd_270x15910-04-2023_11g26-41.png" group-title="FPTPlay",HTVC Thuần Việt HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-thuan-viet-hd
+#EXTINF:-1 tvg-id="htvc-phim" tvg-name="HTVC Phim HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-phim.png" group-title="FPTPlay",HTVC Phim HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-phim
+#EXTINF:-1 tvg-id="htvc-ca-nhac" tvg-name="HTVC Ca nhạc" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/htvc-ca-nhac.png" group-title="FPTPlay",HTVC Ca nhạc
+http://khaitv.giize.com:8080/fptplay/get.php?id=htvc-ca-nhac
+#EXTINF:-1 tvg-id="k-kids-hd" tvg-name="K+ Kids" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/kkid01-10-2024_00g15-44.png" group-title="FPTPlay",K+ Kids
+http://khaitv.giize.com:8080/fptplay/get.php?id=k-kids-hd
+#EXTINF:-1 tvg-id="k1" tvg-name="K+ Cine" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/kcine01-10-2024_00g14-22.png" group-title="FPTPlay",K+ Cine
+http://khaitv.giize.com:8080/fptplay/get.php?id=k1
+#EXTINF:-1 tvg-id="kns" tvg-name="K+ Action" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/kaction01-10-2024_00g10-28.png" group-title="FPTPlay",K+ Action
+http://khaitv.giize.com:8080/fptplay/get.php?id=kns
+#EXTINF:-1 tvg-id="kpm" tvg-name="K+ Sport 1" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/ksport-101-10-2024_00g17-04.png" group-title="FPTPlay",K+ Sport 1
+http://khaitv.giize.com:8080/fptplay/get.php?id=kpm
+#EXTINF:-1 tvg-id="kpc" tvg-name="K+ Sport 2" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/ksport-201-10-2024_00g18-08.png" group-title="FPTPlay",K+ Sport 2
+http://khaitv.giize.com:8080/fptplay/get.php?id=kpc
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/da-vinci-learning.png" group-title="FPTPlay",Da Vinci HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=da-vinci-learning
+#EXTINF:-1 tvg-id="asian-food-channel" tvg-name="Asian Food Network HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/asian-food-channel.png" group-title="FPTPlay",Asian Food Network HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=asian-food-channel
+#EXTINF:-1 tvg-id="outdoor-channel" tvg-name="Outdoor Channel HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/outdoor-channel.png" group-title="FPTPlay",Outdoor Channel HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=outdoor-channel
+#EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/france-24.png" group-title="FPTPlay",France 24
+http://khaitv.giize.com:8080/fptplay/get.php?id=france-24
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/arirang.png" group-title="FPTPlay",Arirang
+http://khaitv.giize.com:8080/fptplay/get.php?id=arirang
+#EXTINF:-1 tvg-id="nhk-world-hd" tvg-name="NHK World HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/nhk-world-hd.png" group-title="FPTPlay",NHK World HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=nhk-world-hd
+#EXTINF:-1 tvg-id="channel-newsasia" tvg-name="CNA" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/channel-newsasia.png" group-title="FPTPlay",CNA
+http://khaitv.giize.com:8080/fptplay/get.php?id=channel-newsasia
+#EXTINF:-1 tvg-id="tv5-monde" tvg-name="TV5MONDE" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/tv5-monde.png" group-title="FPTPlay",TV5MONDE
+http://khaitv.giize.com:8080/fptplay/get.php?id=tv5-monde
+#EXTINF:-1 tvg-id="dw" tvg-name="DW HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dw.png" group-title="FPTPlay",DW HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=dw
+#EXTINF:-1 tvg-id="kbs-world" tvg-name="KBS World" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/01/06/kbs-world_270-15906-01-2025_13g37-26.png" group-title="FPTPlay",KBS World
+http://khaitv.giize.com:8080/fptplay/get.php?id=kbs-world
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/cnbc.png" group-title="FPTPlay",CNBC
+http://khaitv.giize.com:8080/fptplay/get.php?id=cnbc
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/01/06/kix_270-15906-01-2025_13g38-20.png" group-title="FPTPlay",KIX HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=kix
+#EXTINF:-1 tvg-id="an-giang" tvg-name="An Giang HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/06/06/an-giang-hd_270-15906-06-2023_05g47-33.png" group-title="FPTPlay",An Giang HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=an-giang
+#EXTINF:-1 tvg-id="ba-ria-vung-tau" tvg-name="Bà Rịa-Vũng Tàu HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/ba-ria-vung-tau.png" group-title="FPTPlay",Bà Rịa-Vũng Tàu HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=ba-ria-vung-tau
+#EXTINF:-1 tvg-id="bac-giang" tvg-name="Bắc Giang HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/bac-giang-hd07-03-2022_15g12-35.png" group-title="FPTPlay",Bắc Giang HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=bac-giang
+#EXTINF:-1 tvg-id="bac-lieu" tvg-name="Bạc Liêu HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/baclieu_adsl_11552207-03-2022_12g01-10.png" group-title="FPTPlay",Bạc Liêu HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=bac-lieu
+#EXTINF:-1 tvg-id="bac-ninh" tvg-name="Bắc Ninh HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/bac-ninh.png" group-title="FPTPlay",Bắc Ninh HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=bac-ninh
+#EXTINF:-1 tvg-id="ben-tre" tvg-name="Bến Tre" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/08/ben-tre_hd08-10-2022_07g14-26.png" group-title="FPTPlay",Bến Tre
+http://khaitv.giize.com:8080/fptplay/get.php?id=ben-tre
+#EXTINF:-1 tvg-id="binh-dinh" tvg-name="Bình Định" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/binh-dinh.png" group-title="FPTPlay",Bình Định
+http://khaitv.giize.com:8080/fptplay/get.php?id=binh-dinh
+#EXTINF:-1 tvg-id="binh-phuoc-1" tvg-name="Bình Phước 1" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/binhphuoc107-03-2022_11g55-25.png" group-title="FPTPlay",Bình Phước 1
+http://khaitv.giize.com:8080/fptplay/get.php?id=binh-phuoc-1
+#EXTINF:-1 tvg-id="hometv-bptv2" tvg-name="Bình Phước 2" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/binhphuoc207-03-2022_11g56-25.png" group-title="FPTPlay",Bình Phước 2
+http://khaitv.giize.com:8080/fptplay/get.php?id=hometv-bptv2
+#EXTINF:-1 tvg-id="binh-thuan" tvg-name="Bình Thuận HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/binhthuan_adsl07-03-2022_11g53-50.png" group-title="FPTPlay",Bình Thuận HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=binh-thuan
+#EXTINF:-1 tvg-id="binh-duong-1" tvg-name="Bình Dương 1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/binh-duong-1.png" group-title="FPTPlay",Bình Dương 1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=binh-duong-1
+#EXTINF:-1 tvg-id="binh-duong-2" tvg-name="Bình Dương 2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/binh-duong-2.png" group-title="FPTPlay",Bình Dương 2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=binh-duong-2
+#EXTINF:-1 tvg-id="ca-mau" tvg-name="Cà Mau HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/ca-mau-hd07-03-2022_15g11-36.png" group-title="FPTPlay",Cà Mau HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=ca-mau
+#EXTINF:-1 tvg-id="can-tho" tvg-name="Cần Thơ HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/cantho_adsl07-03-2022_11g42-36.png" group-title="FPTPlay",Cần Thơ HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=can-tho
+#EXTINF:-1 tvg-id="cao-bang" tvg-name="Cao Bằng" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/cao-bang-hd07-03-2022_15g13-06.png" group-title="FPTPlay",Cao Bằng
+http://khaitv.giize.com:8080/fptplay/get.php?id=cao-bang
+#EXTINF:-1 tvg-id="da-nang-1" tvg-name="Đà Nẵng 1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/da-nang-1.png" group-title="FPTPlay",Đà Nẵng 1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=da-nang-1
+#EXTINF:-1 tvg-id="da-nang-2" tvg-name="Đà Nẵng 2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/da-nang-2.png" group-title="FPTPlay",Đà Nẵng 2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=da-nang-2
+#EXTINF:-1 tvg-id="dak-lak" tvg-name="Đăk Lăk" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dak-lak.png" group-title="FPTPlay",Đăk Lăk
+http://khaitv.giize.com:8080/fptplay/get.php?id=dak-lak
+#EXTINF:-1 tvg-id="dien-bien" tvg-name="Điện Biên" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dien-bien.png" group-title="FPTPlay",Điện Biên
+http://khaitv.giize.com:8080/fptplay/get.php?id=dien-bien
+#EXTINF:-1 tvg-id="dong-nai-1" tvg-name="Đồng Nai 1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dong-nai-1.png" group-title="FPTPlay",Đồng Nai 1 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=dong-nai-1
+#EXTINF:-1 tvg-id="dong-nai-2" tvg-name="Đồng Nai 2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dong-nai-2.png" group-title="FPTPlay",Đồng Nai 2 HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=dong-nai-2
+#EXTINF:-1 tvg-id="dong-thap" tvg-name="Đồng Tháp" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/dong-thap.png" group-title="FPTPlay",Đồng Tháp
+http://khaitv.giize.com:8080/fptplay/get.php?id=dong-thap
+#EXTINF:-1 tvg-id="ha-giang" tvg-name="Hà Giang" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/ha-giang.png" group-title="FPTPlay",Hà Giang
+http://khaitv.giize.com:8080/fptplay/get.php?id=ha-giang
+#EXTINF:-1 tvg-id="ha-nam" tvg-name="Hà Nam" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/ha-nam.png" group-title="FPTPlay",Hà Nam
+http://khaitv.giize.com:8080/fptplay/get.php?id=ha-nam
+#EXTINF:-1 tvg-id="ha-tinh" tvg-name="Hà Tĩnh HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/05/23/ha-tinh23-05-2025_10g49-56.png" group-title="FPTPlay",Hà Tĩnh HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=ha-tinh
+#EXTINF:-1 tvg-id="hai-duong" tvg-name="Hải Dương" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/haiduong07-03-2022_11g34-05.png" group-title="FPTPlay",Hải Dương
+http://khaitv.giize.com:8080/fptplay/get.php?id=hai-duong
+#EXTINF:-1 tvg-id="hai-phong" tvg-name="Hải Phòng HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/hai-phong.png" group-title="FPTPlay",Hải Phòng HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=hai-phong
+#EXTINF:-1 tvg-id="hau-giang" tvg-name="Hậu Giang" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/hau-giang.png" group-title="FPTPlay",Hậu Giang
+http://khaitv.giize.com:8080/fptplay/get.php?id=hau-giang
+#EXTINF:-1 tvg-id="hoa-binh" tvg-name="Hòa Bình" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/hoa-binh.png" group-title="FPTPlay",Hòa Bình
+http://khaitv.giize.com:8080/fptplay/get.php?id=hoa-binh
+#EXTINF:-1 tvg-id="thua-thien-hue" tvg-name="Thừa Thiên Huế" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/03/06/hue_270x15906-03-2025_16g08-40.png" group-title="FPTPlay",Thừa Thiên Huế
+http://khaitv.giize.com:8080/fptplay/get.php?id=thua-thien-hue
+#EXTINF:-1 tvg-id="hung-yen" tvg-name="Hưng Yên" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/hung-yen07-03-2022_15g42-51.png" group-title="FPTPlay",Hưng Yên
+http://khaitv.giize.com:8080/fptplay/get.php?id=hung-yen
+#EXTINF:-1 tvg-id="khanh-hoa" tvg-name="Khánh Hòa HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/khanh-hoa.png" group-title="FPTPlay",Khánh Hòa HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=khanh-hoa
+#EXTINF:-1 tvg-id="kien-giang" tvg-name="Kiên Giang" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/kien-giang07-03-2022_16g19-25.png" group-title="FPTPlay",Kiên Giang
+http://khaitv.giize.com:8080/fptplay/get.php?id=kien-giang
+#EXTINF:-1 tvg-id="kon-tum" tvg-name="Kon Tum HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/kon-tum.png" group-title="FPTPlay",Kon Tum HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=kon-tum
+#EXTINF:-1 tvg-id="lai-chau" tvg-name="Lai Châu HD" tvg-logo="https://images.fptplay53.net/media/channels/28_01_2022/laichau-hd28-01-2022_01g09-50.png" group-title="FPTPlay",Lai Châu HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=lai-chau
+#EXTINF:-1 tvg-id="lam-dong" tvg-name="Lâm Đồng" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/lam-dong.png" group-title="FPTPlay",Lâm Đồng
+http://khaitv.giize.com:8080/fptplay/get.php?id=lam-dong
+#EXTINF:-1 tvg-id="lang-son" tvg-name="Lạng Sơn" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/lang-son.png" group-title="FPTPlay",Lạng Sơn
+http://khaitv.giize.com:8080/fptplay/get.php?id=lang-son
+#EXTINF:-1 tvg-id="lao-cai" tvg-name="Lào Cai" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/lao-cai.png" group-title="FPTPlay",Lào Cai
+http://khaitv.giize.com:8080/fptplay/get.php?id=lao-cai
+#EXTINF:-1 tvg-id="long-an" tvg-name="Long An" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/long-an.png" group-title="FPTPlay",Long An
+http://khaitv.giize.com:8080/fptplay/get.php?id=long-an
+#EXTINF:-1 tvg-id="nghe-an" tvg-name="Nghệ An" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/nghe-an-hd07-03-2022_15g06-53.png" group-title="FPTPlay",Nghệ An
+http://khaitv.giize.com:8080/fptplay/get.php?id=nghe-an
+#EXTINF:-1 tvg-id="ninh-binh" tvg-name="Ninh Bình" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/ninh-binh07-03-2022_15g43-23.png" group-title="FPTPlay",Ninh Bình
+http://khaitv.giize.com:8080/fptplay/get.php?id=ninh-binh
+#EXTINF:-1 tvg-id="ninh-thuan" tvg-name="Ninh Thuận" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/ninhthuan07-03-2022_10g46-29.png" group-title="FPTPlay",Ninh Thuận
+http://khaitv.giize.com:8080/fptplay/get.php?id=ninh-thuan
+#EXTINF:-1 tvg-id="phu-tho" tvg-name="Phú Thọ HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/phu-tho.png" group-title="FPTPlay",Phú Thọ HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=phu-tho
+#EXTINF:-1 tvg-id="phu-yen" tvg-name="Phú Yên HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/phu-yen.png" group-title="FPTPlay",Phú Yên HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=phu-yen
+#EXTINF:-1 tvg-id="quang-binh-tv" tvg-name="Quảng Bình" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/quang-binh-tv.png" group-title="FPTPlay",Quảng Bình
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-binh-tv
+#EXTINF:-1 tvg-id="quang-nam" tvg-name="Quảng Nam" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/quang-nam-hd07-03-2022_15g09-47.png" group-title="FPTPlay",Quảng Nam
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-nam
+#EXTINF:-1 tvg-id="quang-ngai" tvg-name="Quảng Ngãi HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/quang-ngai.png" group-title="FPTPlay",Quảng Ngãi HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-ngai
+#EXTINF:-1 tvg-id="quang-ninh-1" tvg-name="Quảng Ninh 1" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/quang-ninh-1-hd07-03-2022_15g21-02.png" group-title="FPTPlay",Quảng Ninh 1
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-ninh-1
+#EXTINF:-1 tvg-id="quang-ninh-3" tvg-name="Quảng Ninh 3" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/quang-ninh-307-03-2022_15g21-21.png" group-title="FPTPlay",Quảng Ninh 3
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-ninh-3
+#EXTINF:-1 tvg-id="quang-tri" tvg-name="Quảng Trị" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/05/23/quang-tri23-05-2025_10g51-08.png" group-title="FPTPlay",Quảng Trị
+http://khaitv.giize.com:8080/fptplay/get.php?id=quang-tri
+#EXTINF:-1 tvg-id="soc-trang" tvg-name="Sóc Trăng" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/soc-la-1-sd07-03-2022_15g10-16.png" group-title="FPTPlay",Sóc Trăng
+http://khaitv.giize.com:8080/fptplay/get.php?id=soc-trang
+#EXTINF:-1 tvg-id="son-la" tvg-name="Sơn La" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/son-la07-03-2022_15g22-57.png" group-title="FPTPlay",Sơn La
+http://khaitv.giize.com:8080/fptplay/get.php?id=son-la
+#EXTINF:-1 tvg-id="tay-ninh-hd" tvg-name="Tây Ninh HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/tay-ninh-hd.png" group-title="FPTPlay",Tây Ninh HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=tay-ninh-hd
+#EXTINF:-1 tvg-id="thai-binh" tvg-name="Thái Bình HD" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/03/16/thai-binh-hd_270-15916-03-2023_00g19-17.png" group-title="FPTPlay",Thái Bình HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=thai-binh
+#EXTINF:-1 tvg-id="thai-nguyen" tvg-name="Thái Nguyên HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/thai-nguyen07-03-2022_15g46-45.png" group-title="FPTPlay",Thái Nguyên HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=thai-nguyen
+#EXTINF:-1 tvg-id="thanh-hoa" tvg-name="Thanh Hóa" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/thanh-hoa.png" group-title="FPTPlay",Thanh Hóa
+http://khaitv.giize.com:8080/fptplay/get.php?id=thanh-hoa
+#EXTINF:-1 tvg-id="tien-giang" tvg-name="Tiền Giang" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/tien-giang.png" group-title="FPTPlay",Tiền Giang
+http://khaitv.giize.com:8080/fptplay/get.php?id=tien-giang
+#EXTINF:-1 tvg-id="tra-vinh" tvg-name="Trà Vinh HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/tra-vinh.png" group-title="FPTPlay",Trà Vinh HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=tra-vinh
+#EXTINF:-1 tvg-id="tuyen-quang" tvg-name="Tuyên Quang HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/tuyen-quang07-03-2022_16g05-59.png" group-title="FPTPlay",Tuyên Quang HD
+http://khaitv.giize.com:8080/fptplay/get.php?id=tuyen-quang
