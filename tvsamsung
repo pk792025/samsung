@@ -36,7 +36,7 @@ http://khaitv.giize.com:8080/fptplay/get.php?id=fpt-play
 #EXTINF:-1 tvg-id="vtv1-hd" tvg-name="VTV1 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv1-hd.png" group-title="FPTPlay",VTV1 HD
 http://khaitv.giize.com:8080/fptplay/get.php?id=vtv1-hd
 #EXTINF:-1 tvg-id="vtv2-hd" tvg-name="VTV2 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv2-hd.png" group-title="FPTPlay",VTV2 HD
-http://khaitv.giize.com:8080/fptplay/get.php?id=vtv2-hd
+https://tv.ddns.vn/tv/vtv2fhd/index.m3u8
 #EXTINF:-1 tvg-id="vtv3-hd" tvg-name="VTV3 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv3-hd.png" group-title="FPTPlay",VTV3 HD
 http://khaitv.giize.com:8080/fptplay/get.php?id=vtv3-hd
 #EXTINF:-1 tvg-id="vtv4-hd" tvg-name="VTV4 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv4-hd.png" group-title="FPTPlay",VTV4 HD
