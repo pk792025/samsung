@@ -70,7 +70,7 @@ https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8
 https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTVphimtonghop
-https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 11
 https://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
