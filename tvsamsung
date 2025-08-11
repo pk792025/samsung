@@ -139,12 +139,6 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/Asian_Food_Network.png", ASIAN_FOOD_CHANNEL
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_GIANG.png", BAC_GIANG
-https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_KAN.png", BAC_KAN
-https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_LIEU.png", BAC_LIEU
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_NINH.png", BAC_NINH
 https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/VUNG_TAU.png", BA_RIA_VUNG_TAU
