@@ -42,7 +42,7 @@ http://khaitv.giize.com:8080/fptplay/get.php?id=vtv3-hd
 #EXTINF:-1 tvg-id="vtv4-hd" tvg-name="VTV4 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv4-hd.png" group-title="FPTPlay",VTV4 HD
 http://khaitv.giize.com:8080/fptplay/get.php?id=vtv4-hd
 #EXTINF:-1 tvg-id="vtv5-hd" tvg-name="VTV5 HD" tvg-logo="https://images.fptplay53.net/media/channels/21_12_2021/vtv5-hd.png" group-title="FPTPlay",VTV5 HD
-http://khaitv.giize.com:8080/fptplay/get.php?id=vtv5-hd
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv-can-tho" tvg-name="VTV Cần Thơ" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/10/vtv_can-tho_270-15910-10-2022_10g50-54.png" group-title="FPTPlay",VTV Cần Thơ
 http://khaitv.giize.com:8080/fptplay/get.php?id=vtv-can-tho
 #EXTINF:-1 tvg-id="vtv7-hd" tvg-name="VTV7 HD" tvg-logo="https://images.fptplay53.net/media/channels/07_03_2022/vtv-7-hd07-03-2022_15g07-25.png" group-title="FPTPlay",VTV7 HD
